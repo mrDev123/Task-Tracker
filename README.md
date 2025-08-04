@@ -1,4 +1,4 @@
-# Task-Tracker
+# Task-Tracker (Excel-Work)
 Built to make work feel less messy and more manageable. This tracker helps us stay on top of tasks, deadlines, and progress without overthinking it. Simple, clean, and made to just work.
 📘 README – Task Tracker (Excel)
 👋 What’s This For?
