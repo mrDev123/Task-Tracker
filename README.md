@@ -5,8 +5,6 @@ Built to make work feel less messy and more manageable. This tracker helps us st
 This task tracker was made to bring some calm to the chaos of daily work. Whether you’re managing client projects, internal sprints, or just your own to-dos, this file keeps everything in one place—clean, simple, and actually helpful.
 
 🛠️ What It Can Do (Functions Behind the Magic)
-Universal Search Bar
-🔍 Type anything—task name, sprint, priority—and it’ll instantly filter matching rows (using SEARCH, ISNUMBER, SUMPRODUCT).
 
 Overdue Tracker
 🚨 Automatically shows which tasks are past due based on today’s date (=TODAY() + conditional formatting).
@@ -45,5 +43,6 @@ Add your own categories or columns if your workflow needs more.
 Works well with Trello or Notion too (manually sync).
 
 Keep the “Search Match” helper column visible while setting up, then hide it if you want a cleaner look.
+
 
 
